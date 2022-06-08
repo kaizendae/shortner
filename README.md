@@ -24,3 +24,8 @@ the development server:
 yarn dev
 ```
 
+## Demo
+
+![alt text](./demo.gif)
+
+
